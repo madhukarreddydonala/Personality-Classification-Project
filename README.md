@@ -2,7 +2,8 @@
 
 A modern, AI-powered personality classification web application that determines whether you're an introvert or extrovert based on behavioral patterns and lifestyle preferences.
 
-![Personality Quiz Demo](https://img.shields.io/badge/Demo-Live-brightgreen)
+![Personality Quiz Demo](https://img.shields.io/badge/Demo-Live-brightgreen)--> https://personalitty.netlify.app/
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
